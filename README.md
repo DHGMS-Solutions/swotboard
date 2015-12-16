@@ -6,7 +6,7 @@ SWOT Board is a piece of concept work around doing SWOT analysis.
 
 ## Viewing the documentation
 
-The documentation can be found at http://dpvreony.github.com/swotboard/
+The documentation can be found at http://dhgms-solutions.github.io/swotboard/
 
 ## Contributing to the code
 
